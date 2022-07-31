@@ -3,19 +3,9 @@
 ### 회의록: https://docs.google.com/spreadsheets/d/1eWGzgQfGVOv3Z4DeO8aHLji-T8mBWyipaxoxZ0SeTn0/edit?usp=sharing
 
 
-|Python A||
+|Python A|정인희|
 |------|---|
 ||테스트2|
 ||테스트2|
 
 
-|Python B||
-|------|---|
-||테스트2|
-||테스트2|
-
-
-|C++||
-|------|---|
-||테스트2|
-||테스트2|
